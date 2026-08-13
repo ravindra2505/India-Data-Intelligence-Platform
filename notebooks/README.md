@@ -1,0 +1,1 @@
+Place exploratory analysis notebooks here. Use the verified CSVs under data/raw/.
