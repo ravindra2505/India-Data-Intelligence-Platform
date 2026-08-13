@@ -1,0 +1,1 @@
+Source: India Meteorological Department (IMD) / Government OGD extract. Coverage: 2020-2024 southwest monsoon actual rainfall as % of LPA.
