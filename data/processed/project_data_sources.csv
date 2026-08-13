@@ -1,0 +1,6 @@
+dataset,latest_or_coverage,official_source,notes
+road_accidents,2024,MoRTH / data.gov.in,State/UT road accidents
+weather,2020-2024,IMD / Rajya Sabha OGD extract,All-India southwest monsoon actual as % of LPA
+air_quality,2023-24,MoEFCC/CPCB government response,Annual average PM10 for selected West Bengal cities
+population,2011,Census of India,Latest completed national Census
+vehicles,2019-20 to 2024-25,Vahan Portal / Ministry of Heavy Industries,"Registered EVs, in lakh"
